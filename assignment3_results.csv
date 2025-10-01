@@ -1,0 +1,6 @@
+question,answer,critique
+What are best practices for caching?,"When addressing caching, it's important to follow well-defined patterns [KBxxx].","REFINE: Caching patterns (e.g., Cache-Aside, Read-Through, Write-Through, Write-Back), cache invalidation, consistency, performance, scalability, eviction policies, data staleness, trade-offs"
+How should I set up CI/CD pipelines?,"When setting up CI/CD pipelines, it's important to follow well-defined patterns [KB1].","REFINE: specificity, benefits, examples"
+What are performance tuning tips?,"When addressing performance tuning, it's important to follow well-defined patterns [KBxxx].",COMPLETE
+How do I version my APIs?,"To version your APIs, it's important to follow well-defined patterns [KB1].","REFINE: API versioning patterns, URL versioning, Header versioning, Query parameter versioning, best practices, backward compatibility"
+What should I consider for error handling?,"When considering error handling, it's important to follow well-defined patterns [KB1].","REFINE: `justification`, `specificity of patterns`"
